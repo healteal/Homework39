@@ -1,3 +1,5 @@
+package Task1;
+
 import java.io.*;
 
 public class General {
